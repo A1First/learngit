@@ -5,3 +5,6 @@ Git tracks changes of files
 Creating a new branch is quick
 this is my progress!
 Creating a new branch is quicka & simple
+my name is yangcheng
+Creating a new branch is quick AND simple
+
